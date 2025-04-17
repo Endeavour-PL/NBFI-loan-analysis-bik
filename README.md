@@ -25,6 +25,8 @@ It includes key metrics and trends from 2021 to 2024, with a focus on:
 
 ---
 
+🔗 [Data source: Credit Information Bureau (BIK)](https://media.bik.pl/analizy-rynkowe)
+
 ## 📫 Contact
 
 Created by **Filip Jasiński**  
